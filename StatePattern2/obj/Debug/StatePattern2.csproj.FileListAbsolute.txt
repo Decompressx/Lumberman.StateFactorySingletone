@@ -1,0 +1,30 @@
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\StatePattern2\StatePattern2\bin\Debug\StatePattern2.exe.config
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\StatePattern2\StatePattern2\bin\Debug\StatePattern2.exe
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\StatePattern2\StatePattern2\bin\Debug\StatePattern2.pdb
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\StatePattern2\StatePattern2\obj\Debug\StatePattern2.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\StatePattern2\StatePattern2\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\StatePattern2\StatePattern2\obj\Debug\App.g.cs
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\StatePattern2\StatePattern2\obj\Debug\StatePattern2_MarkupCompile.cache
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\StatePattern2\StatePattern2\obj\Debug\StatePattern2_MarkupCompile.lref
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\StatePattern2\StatePattern2\obj\Debug\MainWindow.baml
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\StatePattern2\StatePattern2\obj\Debug\StatePattern2.g.resources
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\StatePattern2\StatePattern2\obj\Debug\StatePattern2.Properties.Resources.resources
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\StatePattern2\StatePattern2\obj\Debug\StatePattern2.csproj.GenerateResource.Cache
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\StatePattern2\StatePattern2\obj\Debug\StatePattern2.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\StatePattern2\StatePattern2\obj\Debug\StatePattern2.exe
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\StatePattern2\StatePattern2\obj\Debug\StatePattern2.pdb
+C:\Users\Vlad Tkachenko\Desktop\StatePattern2\StatePattern2\bin\Debug\StatePattern2.exe.config
+C:\Users\Vlad Tkachenko\Desktop\StatePattern2\StatePattern2\bin\Debug\StatePattern2.exe
+C:\Users\Vlad Tkachenko\Desktop\StatePattern2\StatePattern2\bin\Debug\StatePattern2.pdb
+C:\Users\Vlad Tkachenko\Desktop\StatePattern2\StatePattern2\obj\Debug\StatePattern2.csprojResolveAssemblyReference.cache
+C:\Users\Vlad Tkachenko\Desktop\StatePattern2\StatePattern2\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad Tkachenko\Desktop\StatePattern2\StatePattern2\obj\Debug\App.g.cs
+C:\Users\Vlad Tkachenko\Desktop\StatePattern2\StatePattern2\obj\Debug\StatePattern2_MarkupCompile.cache
+C:\Users\Vlad Tkachenko\Desktop\StatePattern2\StatePattern2\obj\Debug\StatePattern2_MarkupCompile.lref
+C:\Users\Vlad Tkachenko\Desktop\StatePattern2\StatePattern2\obj\Debug\MainWindow.baml
+C:\Users\Vlad Tkachenko\Desktop\StatePattern2\StatePattern2\obj\Debug\StatePattern2.g.resources
+C:\Users\Vlad Tkachenko\Desktop\StatePattern2\StatePattern2\obj\Debug\StatePattern2.Properties.Resources.resources
+C:\Users\Vlad Tkachenko\Desktop\StatePattern2\StatePattern2\obj\Debug\StatePattern2.csproj.GenerateResource.Cache
+C:\Users\Vlad Tkachenko\Desktop\StatePattern2\StatePattern2\obj\Debug\StatePattern2.csproj.CoreCompileInputs.cache
+C:\Users\Vlad Tkachenko\Desktop\StatePattern2\StatePattern2\obj\Debug\StatePattern2.exe
+C:\Users\Vlad Tkachenko\Desktop\StatePattern2\StatePattern2\obj\Debug\StatePattern2.pdb
